@@ -2,7 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-nkayron.github.io-blue?style=for-the-badge)](https://nkayron.github.io/kayron-constantino-portfolio/index.html)
 
-Um portfólio pessoal responsivo e moderno, construído com **HTML5**, **CSS3** e **JavaScript puro**, sem dependências externas.
+Um portfólio pessoal responsivo e moderno, construído com **HTML5**, **CSS3** e **JavaScript**.
 
 ## 📌 Visão Geral
 
@@ -50,8 +50,6 @@ O formulário em `contato.html` valida:
 - ✓ Campo Nome — Obrigatório
 - ✓ Campo E-mail — Formato válido (regex: `^\w+@\w+\.\w+$`)
 - ✓ Campo Mensagem — Obrigatório
-
-**Nota:** O formulário é apenas front-end.
 
 ## 🔒 Responsividade
 
